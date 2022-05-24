@@ -11,6 +11,10 @@ class App extends React.Component {
      videos:[],
      selectedVideo : '',
    };
+   componentDidMount(){
+    this.onTermSubmit("karan aujla");
+  }
+
    onSelectVideo = (videos) =>{
     this.setState({selectedVideo:videos});
   };

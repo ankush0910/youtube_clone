@@ -27,7 +27,7 @@ import React from 'react'
                     <img src='/men.png' alt="label" className='rounded-lg w-12' />
                     <div>
                         <h2 className='text-sm font-medium ml-3 mt-1'>{videose.snippet.channelTitle}</h2>
-                        <h3 className='text-sm text-left font-normal ml-3'>2.06 Subscribe</h3>
+                        <h3 className='text-sm text-left font-normal ml-5'>2.06 Subscribe</h3>
                         
                     </div>
                     
